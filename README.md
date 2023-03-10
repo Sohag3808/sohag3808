@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Sohag Sheke</h1>
-<h3 align="center">A Professional Web Designer And WordPress Developer from Bangladesh</h3>
+<h3 align="center">A Web Designer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Sohag Restaurant](http://sohagsheke.com/Html-Css/Sohag-Restaurant/)
 
-- 🌱 I’m currently learning **PHP**
-
-- 🤝 I’m looking for help with [Nimtola Highschool](http://sohagsheke.com/Bootstrap-Project/School%20Project/)
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [http://sohagsheke.com/](http://sohagsheke.com/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Wordpress**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript**
 
 - 📫 How to reach me **mdsohag.3808@gmail.com**
 
